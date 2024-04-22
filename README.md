@@ -1,5 +1,5 @@
 # About this project
-This is a final project for the course programming technique in UTM (University Technology Malaysia). I formed a group of 3 with me as the team leader worked together to design and finish this project.
+This is a C++ final project for the course programming technique in UTM (University Technology Malaysia). I formed a group of 3 with me as the team leader worked together to design and finish this project.
 
 There are a few main concepts we need to implement which are:
 - Array of objects
